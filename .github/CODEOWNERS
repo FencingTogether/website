@@ -1,36 +1,26 @@
-# CODEOWNERS file for Free For Charity Website Template
+# CODEOWNERS file for FencingTogether Website
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
 # Default owners for everything in the repository
 # These owners will be requested for review when someone opens a pull request
-* @clarkemoyer
+* @fencingtogether
 
 # Documentation
-*.md @clarkemoyer
-/docs/ @clarkemoyer
-
-# Security and governance files
-/SECURITY.md @clarkemoyer
-/CODE_OF_CONDUCT.md @clarkemoyer
-/GOVERNANCE.md @clarkemoyer
-/THREAT-MODEL.md @clarkemoyer
+*.md @fencingtogether
 
 # GitHub configuration files
-/.github/ @clarkemoyer
+/.github/ @fencingtogether
 
 # Configuration files
-*.config.* @clarkemoyer
-*.json @clarkemoyer
-*.yml @clarkemoyer
-*.yaml @clarkemoyer
+_config.yml @fencingtogether
+Gemfile @fencingtogether
 
-# Source code
-/src/ @clarkemoyer
+# Jekyll templates
+/_layouts/ @fencingtogether
+/_includes/ @fencingtogether
 
-# Tests
-/tests/ @clarkemoyer
-/__tests__/ @clarkemoyer
+# Assets
+/assets/ @fencingtogether
 
 # Deployment and CI/CD
-/.github/workflows/ @clarkemoyer
-/DEPLOYMENT.md @clarkemoyer
+/.github/workflows/ @fencingtogether

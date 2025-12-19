@@ -1,49 +1,24 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# Ruby
+Gemfile.lock
+*.gem
+.bundle/
+vendor/
 
-# testing
-/coverage
-/test-results/
-/playwright-report/
-/playwright/.cache/
-/.lighthouseci/
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
 
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
+# OS
 .DS_Store
-*.pem
+Thumbs.db
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# Decap CMS uploads
-/public/uploads
-*.bak
+# Logs
+*.log

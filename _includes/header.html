@@ -1,0 +1,31 @@
+<header class="site-header">
+  <div class="container">
+    <nav class="nav">
+      <a href="{{ '/' | relative_url }}" class="logo">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }} logo" class="logo-img">
+        <span class="logo-text">{{ site.title }}</span>
+      </a>
+
+      <ul class="nav-links">
+        <li><a href="#mission">Mission</a></li>
+        <li><a href="#programs">Programs</a></li>
+        <li><a href="#board">Board</a></li>
+        <li><a href="#contact" class="btn btn-primary">Contact</a></li>
+      </ul>
+
+      <button class="mobile-menu-btn" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<script>
+  // Mobile menu toggle
+  document.querySelector('.mobile-menu-btn').addEventListener('click', function() {
+    document.querySelector('.nav-links').classList.toggle('active');
+    this.classList.toggle('active');
+  });
+</script>
