@@ -1,0 +1,51 @@
+# FencingTogether - Jekyll Configuration
+# GitHub Pages compatible configuration
+
+# Site Settings
+title: FencingTogether
+description: >-
+  To inspire and empower individuals through the art of fencing.
+  Fostering discipline, respect and community engagement while promoting
+  the fencing sport as a means of personal development and community building,
+  providing access and opportunities for all.
+url: "https://fencingtogether.github.io"
+baseurl: "/website"
+
+# Build Settings
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+# Minima Theme Settings
+minima:
+  skin: classic
+  social_links:
+    - { platform: facebook, user_url: "https://facebook.com/fencingtogether" }
+    - { platform: instagram, user_url: "https://instagram.com/fencingtogether" }
+
+# Navigation
+header_pages:
+  - index.md
+
+# Organization Info (used in templates)
+organization:
+  name: FencingTogether
+  ein: "33-2464809"
+  email: info@fencingtogether.org
+  phone: "(555) 123-4567"
+  address: "14636 NE 95th St Building 12, Redmond, WA 98052"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+  - README.md
+  - LICENSE
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
