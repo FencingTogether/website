@@ -2,7 +2,7 @@
 
 ## Overview
 
-I've completed a comprehensive technical debt audit comparing the FencingTogether website (Jekyll) with the FFC Single Page Template (Next.js 16). The audit identified **22 specific issues** across **13 major areas** of comparison.
+I've completed a comprehensive technical debt audit comparing the FencingTogether website (Jekyll) with the FFC Single Page Template (Next.js 16). The audit identified **26 specific issues** across **13 major areas** of comparison.
 
 ## 📊 Findings Summary
 

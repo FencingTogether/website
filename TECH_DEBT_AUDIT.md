@@ -11,10 +11,12 @@ This audit compares the FencingTogether website (a Jekyll-based static site) wit
 **Key Finding:** The FencingTogether repository represents substantial technical debt with a legacy Jekyll stack that is significantly behind modern web development practices embodied in the FFC Template.
 
 ### Priority Summary
-- 🔴 **Critical Issues:** 5 items requiring immediate attention
-- 🟡 **High Priority:** 8 items requiring near-term resolution
+- 🔴 **Critical Issues:** 8 items requiring immediate attention
+- 🟡 **High Priority:** 9 items requiring near-term resolution (includes 2 noted as duplicates/subsets)
 - 🟢 **Medium Priority:** 6 items for planned improvement
 - ⚪ **Low Priority:** 3 items for long-term consideration
+
+**Total:** 26 issues identified
 
 ---
 
