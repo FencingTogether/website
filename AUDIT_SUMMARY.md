@@ -1,7 +1,7 @@
 # Technical Debt Audit - Quick Reference
 
 **Repository:** FencingTogether/website  
-**Audit Date:** December 19, 2024  
+**Audit Date:** December 19, 2025  
 **Full Report:** [TECH_DEBT_AUDIT.md](./TECH_DEBT_AUDIT.md)  
 **Remediation Issues:** [REMEDIATION_ISSUES.md](./REMEDIATION_ISSUES.md)
 
@@ -279,4 +279,4 @@ For questions about the audit, clarifications on findings, or discussion of prio
 
 ---
 
-**Last Updated:** December 19, 2024
+**Last Updated:** December 19, 2025

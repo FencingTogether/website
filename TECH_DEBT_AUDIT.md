@@ -1,6 +1,6 @@
 # Technical Debt Audit: FencingTogether vs FFC Single Page Template
 
-**Date:** December 19, 2024  
+**Date:** December 19, 2025  
 **Auditor:** GitHub Copilot  
 **Scope:** Comparative analysis between FencingTogether/website (Jekyll) and FreeForCharity/FFC_Single_Page_Template (Next.js)
 
