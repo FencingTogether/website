@@ -129,14 +129,14 @@ title: Home
       <div class="board-member">
         <div class="member-photo placeholder"></div>
         <h3>Board Member</h3>
-        <p class="title">Stanca</p>
-        <p class="bio">Guiding curriculum design and inclusive program development for fencers of all ages.</p>
+        <p class="title">Stanca [Last Name]</p>
+        <p class="bio">Overseeing program development and volunteer coordination.</p>
       </div>
 
       <div class="board-member">
         <div class="member-photo placeholder"></div>
         <h3>Board Member</h3>
-        <p class="title">Elaine</p>
+        <p class="title">Elaine [Last Name]</p>
         <p class="bio">Strengthening organizational governance, partnerships, and volunteer engagement.</p>
       </div>
     </div>
