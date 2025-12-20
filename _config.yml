@@ -8,8 +8,8 @@ description: >-
   Fostering discipline, respect and community engagement while promoting
   the fencing sport as a means of personal development and community building,
   providing access and opportunities for all.
-url: "https://fencingtogether.github.io"
-baseurl: "/website"
+url: "https://fencingtogether.org"
+baseurl: "/"
 
 # Build Settings
 theme: minima
