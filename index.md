@@ -107,30 +107,37 @@ title: Home
     <div class="board-grid">
       <div class="board-member">
         <div class="member-photo placeholder"></div>
-        <h3>Board President</h3>
-        <p class="title">President</p>
+        <h3>President</h3>
+        <p class="title">Sama Abuelfutuh</p>
         <p class="bio">Leading our organization's strategic vision and community partnerships.</p>
       </div>
 
       <div class="board-member">
         <div class="member-photo placeholder"></div>
-        <h3>Vice President</h3>
-        <p class="title">Vice President</p>
-        <p class="bio">Overseeing program development and volunteer coordination.</p>
-      </div>
-
-      <div class="board-member">
-        <div class="member-photo placeholder"></div>
         <h3>Treasurer</h3>
-        <p class="title">Treasurer</p>
+        <p class="title">Hala ElSherif</p>
         <p class="bio">Managing financial operations and ensuring fiscal responsibility.</p>
       </div>
 
       <div class="board-member">
         <div class="member-photo placeholder"></div>
         <h3>Secretary</h3>
-        <p class="title">Secretary</p>
+        <p class="title">Haytham Abuelfutuh</p>
         <p class="bio">Maintaining organizational records and board communications.</p>
+      </div>
+
+      <div class="board-member">
+        <div class="member-photo placeholder"></div>
+        <h3>Board Member</h3>
+        <p class="title">Stanca</p>
+        <p class="bio">Overseeing program development and volunteer coordination.</p>
+      </div>
+
+      <div class="board-member">
+        <div class="member-photo placeholder"></div>
+        <h3>Board Member</h3>
+        <p class="title">Elaine</p>
+        <p class="bio">Overseeing program development and volunteer coordination.</p>
       </div>
     </div>
   </div>
