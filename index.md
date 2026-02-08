@@ -106,37 +106,44 @@ title: Home
 
     <div class="board-grid">
       <div class="board-member">
-        <div class="member-photo placeholder"></div>
+        <img src="assets/images/Sama.png" alt="Sama Abuelfutuh" class="member-photo">
         <h3>President</h3>
         <p class="title">Sama Abuelfutuh</p>
         <p class="bio">Leading our organization's strategic vision and community partnerships.</p>
       </div>
 
       <div class="board-member">
-        <div class="member-photo placeholder"></div>
+        <img src="assets/images/Ethan.png" alt="Ethan Toyofuku" class="member-photo">
+        <h3>Volunteer Coordinator</h3>
+        <p class="title">Ethan Toyofuku</p>
+        <p class="bio">Leading volunteer recruiting and coordination.</p>
+      </div>
+
+      <div class="board-member">
+        <img src="assets/images/Hala.png" alt="Hala ElSherif" class="member-photo">
         <h3>Treasurer</h3>
         <p class="title">Hala ElSherif</p>
         <p class="bio">Managing financial operations and ensuring fiscal responsibility.</p>
       </div>
 
       <div class="board-member">
-        <div class="member-photo placeholder"></div>
+        <img src="assets/images/Haytham.png" alt="Haytham Abuelfutuh" class="member-photo">
         <h3>Secretary</h3>
         <p class="title">Haytham Abuelfutuh</p>
         <p class="bio">Maintaining organizational records and board communications.</p>
       </div>
 
       <div class="board-member">
-        <div class="member-photo placeholder"></div>
+        <img src="assets/images/Stanca.png" alt="Stanca Hamza" class="member-photo">
         <h3>Board Member</h3>
-        <p class="title">Stanca [Last Name]</p>
+        <p class="title">Stanca Hamza</p>
         <p class="bio">Overseeing program development and volunteer coordination.</p>
       </div>
 
       <div class="board-member">
-        <div class="member-photo placeholder"></div>
+        <img src="assets/images/Elaine.png" alt="Elaine Wang" class="member-photo">
         <h3>Board Member</h3>
-        <p class="title">Elaine [Last Name]</p>
+        <p class="title">Elaine Wang</p>
         <p class="bio">Strengthening organizational governance, partnerships, and volunteer engagement.</p>
       </div>
     </div>
