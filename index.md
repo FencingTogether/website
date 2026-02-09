@@ -53,31 +53,19 @@ title: Home
   <div class="container">
     <h2>Gallery</h2>
     <p class="section-intro">Highlights from our recent events.</p>
-    
     <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
     <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
       data-link="https://photos.app.goo.gl/o5LmcrZ2MCcsSZrs7"
       data-title="FencingTogether - Public · Sunday, Feb 8 📸"
       data-description="Shared album · Tap to view!">
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczOP93-znIo8pSiBaZHA9umT4F-Valz9BVq0ePrz0WKtgnWAWQuYiSuBA3EY0yc3UN1lFUQbLFVvMZasUCeUDoJcEtb2gAvUjyFk1DqobseAIhc89k3W=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczO-QiKTDUOKbmWrKOK_yW_sgRk7xqQDiVBCYeoXAWTFK0K6UB__UyGC-muox01DLhsaw7cdEWvrMKLNu35B3VsWgPZI2yFQTJonm62FqGGLEv1ayerY=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczOJxOKnKe16FGsIrjBjmq6OQeroKxxs0STbD2M_lZQCLsAXx_5kVZ1Mzf8i-OFgxkv92ngI2qDwecrIGk_aF2xmLZ7oNFg4FhczIEXiUf7d2cSaRhJR=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczNhZKz1EzqzFTXMHfvy_nuBsnUIvsLu3XHTy2R1FXFBO-KyIGznApvIfrrz-DEaXZnFO7ymGEwlwWodequaE14Bl2LRDmRofSrpCn298w9-vrjNrR0P=w1920-h1080"></object>
       <object data="https://lh3.googleusercontent.com/pw/AP1GczP-D77uBrxweNH0U2mMNYBFG0__eL_KNVOb44998IM_6RHJMSD6bkLboH4djmZRm_IJrR6JVpUoJUqSrWcyD0jmuEwjOHUy4FHyqA8Yi6lHSdXE3XOJ=w1920-h1080"></object>
       <object data="https://lh3.googleusercontent.com/pw/AP1GczM99lTb4cq2X_zwdOyqCVnoYyjg5KsffomQfo6pmSyT4b8aWPRWouyGUFuRqtgCeAA7kt-yZ_gBxs5fhuvMhMy4xkhJTCPhUJb8-jixCGfGaM7R5IAC=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczO-xw8yMgmTn-Da3hhADYCJmiEHWWwmvTkWodR6jW4UrOTyk_66s5vkfAOgXhqj0fgyqdgdlnIeV6oZRYBNCdeVZ9nooAsTKwNP6QmodcpdI81D5BXG=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczPrUN2U37B6smUSkPsRpfqI0NUrnupwkfri8bnCuW7hux9dxcjxa01LwsHnZ2HJLm0D5O8ybKL9AKZunk3O4XXHs-lxguFGSez9v36pgHE6v1hoSUAR=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczP-sQHBzdr1IFxbrYIRK0d9PsMr1NkjT5I8RMSjlzfcFAX4j2iFEX0caUSOkIkmMKKsSyGk1IJHaF0O72XgK88fG4FFCnyMD6176WR1fN9dlCEyiOqx=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczOKvkuTlaCTjP1oHLKxE_G5nAOGQ9ONSpdkahE0nGbiD8Rxel_UWPWOSRW4l6TOvpDhlt9CsYRh8A3O0JRdGMoMOvcMZFZaFTfBRu8h7FuFIfmEicqd=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczNCfR8aUO44DMHfay98VpzMH3XEX5NiXdVRhem68G38-dfMo2ZqQQTJBbfXFp6Au7aDbZhyxMol9MXwzOZWexUPzAT0gjFO_IPqO3kRJnINgLBYRwh0=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczN5Ierx2lvnEyw2NQfbJ8zZgSx37uYRl_w5jKlEoQhcaw1_roEyyerkcQIFlfxCzMvYjuWLJJeP4R0-uD0soUtGidsXqn5ow0u5CRXIbQMVE9IK9EVs=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczN3R3l2dwsXN0uVantqkCnt4GQ6qG0LmJ-_T_hdcVVyUZqbp5mx8QQghpwz1OJLJYwO5T2gQq5lRBCLiu5DvZeLxa6DHsghu7qmWGHFzh4YmleZK7ho=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczMUoPLu_u0EpSZBVxpUSraOAc3ezm7s7jWsug83ji8ft7T-HmU9EIyKAd9ZyM7WTJNWpiTTXckJyw5LI-U6GKRu5YeqXlVQ6V8KAeB05sD4jhQwIW4G=w1920-h1080"></object>
       <object data="https://lh3.googleusercontent.com/pw/AP1GczPxc-kQ5-W6OyxtvjEyxPeVJRM4rCMj8dc6xYU9Ewd1nUtw9XZJjY1NRWY2Vgjcz7er4QXcsovADU8qOCoWFAV-szI06ZjhVnKJJdtS3Z1VIXxoS5VM=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczP1YlLnY5cU_QIQ1CIV2tSxCRL9rLJYdexWLnCOgDxeaS4Dr_jHUu-PIuc9Mb4wiZmVzyYlslM7smJpbZ9tuzljar-Aa3H2zE6l2zr4bOjiuvZK-U-A=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczPj-YsOeMmZH4V8iffiNXKU9bMXAeBAzvide657tXb0Pz0n21CRsF-5p40ZxppVbzKp4jyyxO8rxiK-OmfsnD_ojBdlNOjfozb8Qbrxk6KGR7SBQG8O=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczO72c-vPui3B0wRm8svd1UxnQgAYYNOXpe8seJLAT1MoSulf5vYCAw-_MEkkzzFesG21wh-yiS0LK4N-y2EgxGEFTkprasg-osBqtzkCsQtmwTRwYaa=w1920-h1080"></object>
-      <object data="https://lh3.googleusercontent.com/pw/AP1GczPtYE132NZZ7LvO40JkRG7T9818HF22Gu3rWGOU3SmhEQZkL25sukn0pA-9jtiyd-cDTW30bZ0EFuxxR2luKqJ0mqXc-nbWfspmsvEMB492pwTKEmEx=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczMd0gA2lq1mAUZ1mkdOm_UrlTbGIe7oJquy41frBc-nijNMGo5nmGQhTXmlivG2zmJgFg8n8c9d4ghh66cGpoSEW3a2Arug553uYsUWhGkDsafr7lmC=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczNolMueSzWpPO53uoIW4zKZiLG3uW7bdmRM6Qi9nIhARpD_8_nxivfGHdOKoBL927IShH7nQAZsZqR59-PYZWau1qJsmm952NSHr0LrfTN-gIh_gmFb=w1920-h1080"></object>
     </div>
-  </div>
 </section>
 
 <!-- Programs Section -->
