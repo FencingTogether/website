@@ -56,7 +56,7 @@ title: Home
     <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
     <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
       data-link="https://photos.app.goo.gl/o5LmcrZ2MCcsSZrs7"
-      data-title="FencingTogether - Public · Sunday, Feb 8 📸"
+      data-title="FencingTogether Event @ OEM 📸"
       data-description="Shared album · Tap to view!">
       <object data="https://lh3.googleusercontent.com/pw/AP1GczP-D77uBrxweNH0U2mMNYBFG0__eL_KNVOb44998IM_6RHJMSD6bkLboH4djmZRm_IJrR6JVpUoJUqSrWcyD0jmuEwjOHUy4FHyqA8Yi6lHSdXE3XOJ=w1920-h1080"></object>
       <object data="https://lh3.googleusercontent.com/pw/AP1GczM99lTb4cq2X_zwdOyqCVnoYyjg5KsffomQfo6pmSyT4b8aWPRWouyGUFuRqtgCeAA7kt-yZ_gBxs5fhuvMhMy4xkhJTCPhUJb8-jixCGfGaM7R5IAC=w1920-h1080"></object>
