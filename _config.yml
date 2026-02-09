@@ -49,3 +49,7 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Markdown and Sass
+sass:
+  style: compressed

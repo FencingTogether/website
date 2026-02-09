@@ -48,6 +48,39 @@ title: Home
   </div>
 </section>
 
+<!-- Gallery Section -->
+<section class="section gallery" id="gallery">
+  <div class="container">
+    <h2>Gallery</h2>
+    <p class="section-intro">Highlights from our recent events.</p>
+    <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+    <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+      data-link="https://photos.app.goo.gl/o5LmcrZ2MCcsSZrs7"
+      data-title="FencingTogether Event @ OEM 📸"
+      data-description="Shared album · Tap to view!">
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczP-D77uBrxweNH0U2mMNYBFG0__eL_KNVOb44998IM_6RHJMSD6bkLboH4djmZRm_IJrR6JVpUoJUqSrWcyD0jmuEwjOHUy4FHyqA8Yi6lHSdXE3XOJ=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczM99lTb4cq2X_zwdOyqCVnoYyjg5KsffomQfo6pmSyT4b8aWPRWouyGUFuRqtgCeAA7kt-yZ_gBxs5fhuvMhMy4xkhJTCPhUJb8-jixCGfGaM7R5IAC=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczN3R3l2dwsXN0uVantqkCnt4GQ6qG0LmJ-_T_hdcVVyUZqbp5mx8QQghpwz1OJLJYwO5T2gQq5lRBCLiu5DvZeLxa6DHsghu7qmWGHFzh4YmleZK7ho=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczMUoPLu_u0EpSZBVxpUSraOAc3ezm7s7jWsug83ji8ft7T-HmU9EIyKAd9ZyM7WTJNWpiTTXckJyw5LI-U6GKRu5YeqXlVQ6V8KAeB05sD4jhQwIW4G=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczPxc-kQ5-W6OyxtvjEyxPeVJRM4rCMj8dc6xYU9Ewd1nUtw9XZJjY1NRWY2Vgjcz7er4QXcsovADU8qOCoWFAV-szI06ZjhVnKJJdtS3Z1VIXxoS5VM=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczMd0gA2lq1mAUZ1mkdOm_UrlTbGIe7oJquy41frBc-nijNMGo5nmGQhTXmlivG2zmJgFg8n8c9d4ghh66cGpoSEW3a2Arug553uYsUWhGkDsafr7lmC=w1920-h1080"></object>
+      <object data="https://lh3.googleusercontent.com/pw/AP1GczNolMueSzWpPO53uoIW4zKZiLG3uW7bdmRM6Qi9nIhARpD_8_nxivfGHdOKoBL927IShH7nQAZsZqR59-PYZWau1qJsmm952NSHr0LrfTN-gIh_gmFb=w1920-h1080"></object>
+    </div>
+    
+    <!-- Fallback for users with JS disabled or if the script fails to load -->
+    <noscript>
+      <div class="gallery-fallback" style="text-align: center; padding: 2rem;">
+        <a href="https://photos.app.goo.gl/o5LmcrZ2MCcsSZrs7" target="_blank" class="btn btn-primary">View Album on Google Photos</a>
+      </div>
+    </noscript>
+    
+    <div class="gallery-external-link" style="text-align: center; margin-top: 1rem;">
+      <a href="https://photos.app.goo.gl/o5LmcrZ2MCcsSZrs7" target="_blank" style="color: var(--color-text-light); font-size: 0.9rem;">
+        <span aria-hidden="true">📸</span> View full album on Google Photos
+      </a>
+    </div>
+</section>
+
 <!-- Programs Section -->
 <section class="section programs" id="programs">
   <div class="container">
