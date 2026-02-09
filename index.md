@@ -66,6 +66,19 @@ title: Home
       <object data="https://lh3.googleusercontent.com/pw/AP1GczMd0gA2lq1mAUZ1mkdOm_UrlTbGIe7oJquy41frBc-nijNMGo5nmGQhTXmlivG2zmJgFg8n8c9d4ghh66cGpoSEW3a2Arug553uYsUWhGkDsafr7lmC=w1920-h1080"></object>
       <object data="https://lh3.googleusercontent.com/pw/AP1GczNolMueSzWpPO53uoIW4zKZiLG3uW7bdmRM6Qi9nIhARpD_8_nxivfGHdOKoBL927IShH7nQAZsZqR59-PYZWau1qJsmm952NSHr0LrfTN-gIh_gmFb=w1920-h1080"></object>
     </div>
+    
+    <!-- Fallback for users with JS disabled or if the script fails to load -->
+    <noscript>
+      <div class="gallery-fallback" style="text-align: center; padding: 2rem;">
+        <a href="https://photos.app.goo.gl/o5LmcrZ2MCcsSZrs7" target="_blank" class="btn btn-primary">View Album on Google Photos</a>
+      </div>
+    </noscript>
+    
+    <div class="gallery-external-link" style="text-align: center; margin-top: 1rem;">
+      <a href="https://photos.app.goo.gl/o5LmcrZ2MCcsSZrs7" target="_blank" style="color: var(--color-text-light); font-size: 0.9rem;">
+        <span aria-hidden="true">📸</span> View full album on Google Photos
+      </a>
+    </div>
 </section>
 
 <!-- Programs Section -->
