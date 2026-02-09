@@ -49,3 +49,8 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sass-converter
+
+# Markdown and Sass
+sass:
+  style: compressed
